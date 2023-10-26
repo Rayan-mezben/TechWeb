@@ -8,6 +8,7 @@ public class TpTechWebApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TpTechWebApplication.class, args);
+
     }
 
 }
